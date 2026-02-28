@@ -17,3 +17,6 @@ my_lobster
 .vscode/
 *.swp
 *.swo
+
+# Environment
+.env
